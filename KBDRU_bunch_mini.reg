@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\02080419]
+"Layout Text"="Russian"
+"Layout Display Name"="Клавиатурная раскладка «Русская мини» от Bunch'а"
+"Layout File"="KBDRU_bunch_mini.dll"
+"Layout Id"="00d1"

@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\02080409]
+"Layout Text"="US"
+"Layout Display Name"="United States mini Customized Keyboard Layout by Bunch"
+"Layout File"="KBDUS_bunch_mini.dll"
+"Layout Id"="00d0"
